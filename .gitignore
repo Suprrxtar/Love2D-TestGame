@@ -1,0 +1,64 @@
+# Love2D/Lua Project .gitignore
+
+# Love2D specific
+*.love
+save/
+saves/
+
+# Lua compiled files
+*.luac
+
+# Test results and coverage reports
+test_results.txt
+coverage_report.txt
+test_output.txt
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Love2D save directory (if using love.filesystem)
+save/
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.app
+*.dmg
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Python cache (if using any Python tools)
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows specific
+*.lnk
+desktop.ini
+
+# Love2D configuration overrides
+conf.lua.bak
