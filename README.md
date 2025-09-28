@@ -8,6 +8,7 @@ A Love2D survival game featuring procedural world generation, enemy AI, and dyna
 ## Features
 
 - **Procedural World**: Large 120x68 tile world with grass, water, mountains, caves, and quicksand
+- **Dynamic Camera**: Smooth camera following with zoom and screen shake effects
 - **Player Mechanics**: Energy system, invincibility power-ups, particle trails
 - **Enemy AI**: Fast and slow enemies with search behavior and cave avoidance
 - **Hazards**: Sharks in water, quicksand that slows movement
