@@ -2,6 +2,9 @@
 
 A Love2D survival game featuring procedural world generation, enemy AI, and dynamic gameplay mechanics.
 
+![Game Screenshot](assets/screenshot1.png)
+*Gameplay showing the procedural world, player character, enemies, and UI elements*
+
 ## Features
 
 - **Procedural World**: Large 120x68 tile world with grass, water, mountains, caves, and quicksand
